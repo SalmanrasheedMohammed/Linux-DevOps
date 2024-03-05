@@ -5,8 +5,7 @@
 Network DevOps is the application of DevOps principles and culture to network engineering and operations.
 - Network Automation: API
 - Continuous Development: Integration & Deployment
--
--     ![image](https://github.com/SalmanrasheedMohammed/Linux-DevOps/assets/101308889/233571b1-c4aa-4777-ba8e-970a169dc443)
+-  ![image](https://github.com/SalmanrasheedMohammed/Linux-DevOps/assets/101308889/233571b1-c4aa-4777-ba8e-970a169dc443)
 
 
 **FIREWALL**
