@@ -29,7 +29,7 @@
   - Linux: It consists of (/) slash
   - Bash: Bourne again shell
   - GNU: GNU’s not Unix
-  - 
+
 **Linux Distributions**
 - Ubuntu
 - CentOS
