@@ -222,7 +222,9 @@ A firewall is a security device that protects a network from outside cyber attac
     - Example: systemctl status service_name
 
 **sudo**
-- **sudo** (Superuser Do) is a command-line utility that allows permitted users to execute a command as the superuser or another user, as specified by the security policy. 
+- **sudo** (Superuser Do) is a command-line utility that allows permitted users to execute a command as the superuser or another user, as specified by the security policy.
+- In Ubuntu (sudo apt)
+- In Amazon Linux (sudo yum)
 - Update Package Lists: sudo apt-get update 
 - Install a Package: sudo apt-get install package_name 
 - Remove a Package: sudo apt-get remove package_name 
