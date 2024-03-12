@@ -255,6 +255,8 @@ A firewall is a security device that protects a network from outside cyber attac
 * COMMANDS
   - systemctl enable <service_name>
   - systemctl disable <service_name>
-
-
-
+  - systemctl restart <service_name>
+  - systemctl status <service_name>
+  - systemctl start <service_name>
+  - systemctl stop <service_name>
+  - systemctl reload <service_name>
