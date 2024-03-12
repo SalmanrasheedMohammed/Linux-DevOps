@@ -250,3 +250,11 @@ A firewall is a security device that protects a network from outside cyber attac
 - Add a User to the sudo Group: sudo usermod -aG sudo username 
 - Run a Command as Another User: sudo -u username command
 
+**sudo systemctl**
+- systemctl is a command-line utility in Linux systems used to manage systemd services
+* COMMANDS
+  - systemctl enable <service_name>
+  - systemctl disable <service_name>
+
+
+
