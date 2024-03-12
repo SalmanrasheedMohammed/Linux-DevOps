@@ -269,3 +269,7 @@ A firewall is a security device that protects a network from outside cyber attac
   - (p) PID name of the process associated with each socket
   - (l) list of sockets
 
+**DocumentRoot**
+- /var/www/html
+- To host a custom site you can update the site to DocumentRoot
+
