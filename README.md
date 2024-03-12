@@ -20,8 +20,8 @@
 - Writing a series of commands in a file (shell script) to be executed by the shell. This is often used for automation or repetitive tasks.
 - EX: echo "Hello, World!"
 
-**SSH**
-- SSH (Secure Shell) is a cryptographic network protocol used for secure communication over an unsecured network. It's commonly used for remote login to servers or systems over a network.
+**SSH** (Secure Shell)
+- It is a cryptographic network protocol used for secure communication over an unsecured network. It's commonly used for remote login to servers or systems over a network.
 
 **LINUX ARCHITECTURE**
 - ![image](https://github.com/SalmanrasheedMohammed/Linux-DevOps/assets/101308889/ff0cb09f-4286-4b32-a937-a114eada54cc)
