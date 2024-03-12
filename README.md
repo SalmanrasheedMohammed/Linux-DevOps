@@ -260,3 +260,12 @@ A firewall is a security device that protects a network from outside cyber attac
   - systemctl start <service_name>
   - systemctl stop <service_name>
   - systemctl reload <service_name>
+
+**sudo ss -ntpl**
+- The command sudo ss -ntpl is used to list listening TCP sockets along with the process information in a Linux system.
+* When you run sudo ss -ntpl,
+  - (n) port/local address
+  - (t) TCP sockets
+  - (p) PID name of the process associated with each socket
+  - (l) list of sockets
+
