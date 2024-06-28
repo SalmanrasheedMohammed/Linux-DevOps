@@ -273,3 +273,4 @@ A firewall is a security device that protects a network from outside cyber attac
 - /var/www/html
 - To host a custom site you can update the site to DocumentRoot
 
+linux operations 
